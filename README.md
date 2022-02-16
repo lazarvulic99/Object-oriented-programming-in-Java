@@ -1,3 +1,3 @@
 # Object-oriented-programming-in-Java
 
-Coming soon...
+Games maded in JAVA programming language with GUI and Threads concepts.
